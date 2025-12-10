@@ -6,6 +6,8 @@ public class Client {
 		System.out.println("line 1");
         System.out.println("line2");
         System.out.println("line3");
+        System.out.println("line4");
+
 	}
 
 }
