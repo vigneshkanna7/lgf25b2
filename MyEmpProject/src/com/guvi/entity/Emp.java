@@ -1,7 +1,7 @@
 package com.guvi.entity;
 
 public class Emp {
-
+    public static int count;
 	private int empId;
 	private String empName;
 	public int getEmpId() {
