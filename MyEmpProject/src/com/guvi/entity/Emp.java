@@ -16,6 +16,11 @@ public class Emp {
 	public void setEmpName(String empName) {
 		this.empName = empName;
 	}
+	@Override
+	public String toString() {
+		
+		return empName;
+	}
 	
 	
 }
